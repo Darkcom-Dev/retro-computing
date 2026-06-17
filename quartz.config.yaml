@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: darkcom-dev.github.io
+  baseUrl: darkcom-dev.github.io/retro-computing
   ignorePatterns:
     - private
     - templates
